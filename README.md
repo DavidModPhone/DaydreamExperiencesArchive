@@ -4,7 +4,7 @@ By the death of the Google virtual reality platform called Daydream, a bunch of 
 If you want to discuss about this Repo / Daydream join us on the r/daydream subreddit !
 
 ### The goal of this is not to get cracked apps, It's to have a place where we can put games/apps that are not on the play store anymore (called Abandonware)
-### for copyright problems, just send me an email : MMONargajuna.ät.gmail.com (just for this Fork)
+### for copyright problems, just send me an email :davidmodphone@gmail.com (just for this Fork)
 
 ## Games / Experiments available:
 
@@ -40,7 +40,7 @@ Unravel the mystery of Untethered, a Daydream exclusive and also quirky episodic
 
 ### [Claro (from u/bluestemz)](http://www.mediafire.com/folder/5gayq4ncnu6sn/Claro)
 Play through beautiful, zen-like miniature worlds where you manipulate the sun to grow a tree in each of the 38 puzzles – it’s a perfect Daydream VR game for everyone.
-### [![Claro download button](https://img.shields.io/badge/Claro-Downloas-brightgreen)](http://www.mediafire.com/folder/5gayq4ncnu6sn/Claro) [![Claro Trailer Video button](https://img.shields.io/badge/-Trailer%20Video-informational)](https://www.youtube.com/watch?v=eevVeyVmyUI)
+### [![Claro download button](https://img.shields.io/badge/Claro-Download-brightgreen)](http://www.mediafire.com/folder/5gayq4ncnu6sn/Claro) [![Claro Trailer Video button](https://img.shields.io/badge/-Trailer%20Video-informational)](https://www.youtube.com/watch?v=eevVeyVmyUI)
 
 ### [Disorted (from u/bluestemz)](http://www.mediafire.com/folder/75pq9em5vy2h1/Distorted)
 Welcome to our wicked reality of the 19th century's British Victorian era where danger can creep upon you anytime. You play as Henry who must explore the unfamiliar surroundings and escape. He got lost and doesn’t remember what exactly happened, but it soon becomes clear that this is not his biggest problem. 
@@ -49,6 +49,18 @@ Welcome to our wicked reality of the 19th century's British Victorian era where 
 ### [So Let Us Melt (from u/bluestemz)](http://www.mediafire.com/folder/7fbgxai1rgje2/So_Let_Us_Melt_v0.6.5)
 Welcome to our wicked reality of the 19th century's British Victorian era where danger can creep upon you anytime. You play as Henry who must explore the unfamiliar surroundings and escape. He got lost and doesn’t remember what exactly happened, but it soon becomes clear that this is not his biggest problem. 
 ### [![SLUM download button](https://img.shields.io/badge/So%20Let%20Us%20Melt-Download-brightgreen)](http://www.mediafire.com/folder/7fbgxai1rgje2/So_Let_Us_Melt_v0.6.5) [![SLUM Trailer Video button](https://img.shields.io/badge/-Trailer%20Video-informational)](https://www.youtube.com/watch?v=OiXYJVG2p5I)
+
+### [Cyberpaint](https://github.com/DavidModPhone/DaydreamExperiencesArchive/releases/tag/v1.1.00)
+Cyberpaint is a game where you can paint whatever you want! in VR with Daydream.
+### [![Cyberpaint Download Button](https://img.shields.io/badge/Cyberpaint-Download-brightgreen)](https://github.com/DavidModPhone/DaydreamExperiencesArchive/releases/tag/v1.1.00) [![Cyberpaint Trailer Video Button](https://img.shields.io/badge/-Trailer%20Video-informational)](https://www.youtube.com/watch?v=j-NDqOwO_Uk)
+
+### [Virtual Virtual Reality](https://github.com/DavidModPhone/DaydreamExperiencesArchive/releases/tag/v1.2.2)
+Virtual Virtual Reality is a game where you can experience VR in VR as the name of the game suggets
+### [![VVR Download Button](https://img.shields.io/badge/VVR-Download-brightgreen)](https://github.com/DavidModPhone/DaydreamExperiencesArchive/releases/tag/v1.2.2) [![VVR Trailer Video Button](https://img.shields.io/badge/-Trailer%20Video-informational)](https://www.youtube.com/watch?v=Sb1efNYhkGI)
+
+### Skybox VR Player
+Skybox VR Player is a Daydream app where you can watch videos on your local or network discs
+### [![SkyboxVR Download Button](https://img.shields.io/badge/SkyboxVR-Download-brightgreen)](https://github.com/DavidModPhone/DaydreamExperiencesArchive/releases/tag/v1.33.0) [![Skybox VR Trailer Video Button](https://img.shields.io/badge/-Trailer%20Video-informational)](https://www.youtube.com/watch?v=P_hODPov4lA)
 
 ## You didn't find what you were looking for?
 You can search in the different fork of the archive, the "forked" repo are a copy of this one that can be edited by user and have more games.
